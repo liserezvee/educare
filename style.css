@@ -1,0 +1,8 @@
+.carousel-inner > .carousel-item > .img{
+  height: 100vh;
+  
+}
+.carousel-caption {
+  top: 50%;
+transform: translateY(-50%);
+}
